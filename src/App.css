@@ -1,3 +1,14 @@
 .task-card {
   height: 50px;
+  border: 1px solid black;
+  width: 75%;
+  margin: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+  line-height: 50px;
+  padding: 20px;
+  padding-left: 10px;
+
 }
+
