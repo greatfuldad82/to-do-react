@@ -37,9 +37,9 @@ function App() {
 
     return (
       <>
-          <div className='navbar'>myNavbar</div>
+          <div className='navbar'>alexander - synthesize it baby</div>
           <div className='App'>
-            <h1>My Todo List</h1>
+            <h1 className='header'>My Todo List</h1>
             <form onSubmit={handleSubmit}>
                     <input
                         type="text"
