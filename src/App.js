@@ -48,7 +48,7 @@ function App() {
                         value={inputValue}
                         onChange={handleChange}
                     />
-               <input type="button" value="Add Task" />
+               <input type="button" value="Add Task"/>
             </form>
               {todos.map((task, index) => (
                 <Task taskInfo={task} key={index} />

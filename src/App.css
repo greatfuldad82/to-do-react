@@ -10,11 +10,18 @@
   line-height: 50px;
   padding: 20px;
   padding-left: 10px;
-
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: larger;
+  border-radius: 20px;
 }
 
 .navbar {
   background-color: cadetblue;
+  height: 30px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  border: solid black;
+
 }
 
 .header {
@@ -26,4 +33,5 @@
   height: 40px;
   padding: 20px;
   margin-left: 20px;
+  border-radius: 20px;
 }
